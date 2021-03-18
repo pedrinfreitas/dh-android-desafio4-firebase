@@ -5,6 +5,27 @@
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="green">#009688</color>
+    <color name="gray_light">#C0CCDA</color>
+    <color name="redv">#EA2427</color>
+    <color name="green_dark">#00796B</color>
+    <color name="blue_dark">#1F2D3D</color>
+    <color name="gray_mid">#8492A6</color>
+    <color name="gray_bg">#DDDDDD</color>
+
+    <!-- prototype palette -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="sunset_orange">#FF5252</color>
+    <color name="pine_green">#00796B</color>
+    <color name="cyprus">#004A41</color>
+    <color name="deep_sky_blue">#00A6FF</color>
+    <color name="cello">#47525E</color>
+    <color name="midnight">#1E2D3E</color>
+    <color name="black_pearl">#101821</color>
+    <color name="link_water">#C0CCDA</color>
+    <color name="ship_cove">#8492A6</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="gainsboro">#DDDDDD</color>
+
 </resources>

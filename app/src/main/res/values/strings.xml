@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">desafio_firebase</string>
+    <string name="app_name">Desafio_Firebase</string>
+    <string name="email_invalido">Invalid Email Format</string>
+    <string name="campo_obrigatorio">%1$s is Required</string>
+    <string name="created_at">Created at</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="remember">Remember</string>
+    <string name="log_in">LOG IN</string>
+    <string name="create_account">Create account</string>
 </resources>
